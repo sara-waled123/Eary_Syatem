@@ -1,0 +1,17 @@
+footer {
+    width: 100%;
+    background-color: var(--mainColor);
+    color: var(--thirdColor);
+    text-align: center;
+}
+
+footer p {
+    padding: 15px;
+    text-align: center;
+}
+
+footer p span a {
+    text-decoration: none;
+    color: var(--secondColor);
+    font-weight: bolder;
+}

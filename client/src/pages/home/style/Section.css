@@ -1,0 +1,101 @@
+.box{
+    padding-top: 64px !important;
+    padding-bottom: 64px !important;
+    content: "";
+    display: table;
+    clear: both;
+}
+.format{
+    width: 49.99999%;
+    padding: 12px 24px !important;
+    width: 45%;
+    float:left;
+}
+.infoImg{
+    border-radius: 4px;
+    max-width: 100%;
+    height: auto;
+    opacity: 0.75;
+}
+.center{
+    text-align: center !important;
+}
+.text{
+    font-size: 18px !important;
+}
+.tag-light-grey{
+    color: #000 !important;
+    background-color: #f1f1f1 !important;
+}
+.text-grey{
+    color: #a6a4a4 !important;
+    font-size: 18px !important;
+
+}
+.row {
+    padding: 0 8px;
+}
+.Moldles{
+    padding: 0 8px;
+    width: 49.99999%;
+    margin-bottom: 16px !important;
+    float: left;
+    width: 100%;
+    }
+
+.fourImg{
+    padding: 0 8px;
+    width: 100%;
+    float: left;
+}
+.HeadphonesImg{
+    padding: 0 8px;
+    width: 23%;
+    margin-bottom: 16px !important;
+    float: left;
+}
+.display{
+    position: relative
+}
+.color{
+    color: #fff !important;
+    background-color: #000 !important;
+    padding: 8px 16px !important;
+    position: absolute;
+    left: 0;
+    top: 0;
+}
+ /* new style */
+ /* style home */
+ .container2 {
+     padding-left: 15px;
+     padding-right: 15px;
+     margin-left: auto;
+     margin-right: auto;
+     width: 100%;
+     background: white;
+ }
+  /* top */
+ .header {
+     margin-left: auto;
+     margin-right: auto;
+     position: relative;
+     letter-spacing: 4px;
+     display: block;
+     box-sizing: inherit;
+ }
+ .writeOn {
+     margin-bottom: 9%;
+    padding: 12px 24px !important;
+ }
+
+ .fontOnImg {
+     font-size: 36px !important;
+ }
+ .image{
+        
+    margin-left: -105px;
+    margin-bottom: -5px;
+    width: 110%;
+    height: 15%;
+}

@@ -1,0 +1,100 @@
+/* style of manage Qestions & manage Answer */
+.container1 {
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  background: wheat;
+}
+.text-center{
+    font-style: italic;
+}
+.p-2{
+width: 80%;
+text-align: center;
+margin-left: 10%;
+}
+Table{
+    width: 80%;
+}
+/* style add Answer & add Question & update Answer & update Question */
+Form{
+    width: 80%;
+    margin-left: 10%;
+
+}
+.title{
+    text-align: center;
+    margin-bottom: 3%;
+    margin-top: 2%;
+
+}
+/* responsive of Answer& update */
+/* Large Screens */
+@media (max-width: 1344px) and (min-width: 1100px) {
+    /* manage  add update */
+    .container1 {
+        width: 1100px;
+    }
+    /* manage */
+}
+/* Medium Screens */
+@media (max-width: 960px) and (min-width: 888px) {
+    /* manage add update*/
+    Table {
+        display: flex;
+        flex-wrap: wrap;
+        flex-direction: row;
+        justify-content: space-around;
+    }
+    .text-center{
+        display: none
+    }
+    .btn.btn-success{
+        margin-left: 40%;
+    }
+    /* manage */
+}
+/* Small Screens */
+@media(max-width: 888px)  {
+    /* manage add update*/
+    Table {
+        display: flex;
+        flex-wrap: wrap;
+        width: 70%;/* dont work  */
+        justify-content: flex-end;
+    }
+
+    .text-center {
+        display: none
+    }
+    .btn-success{
+        width: 40%;
+        margin-top: 10%;
+        margin-left: 10%;
+    }
+    .fade.p-2.alert.alert-success.show{
+        width: 40%;
+    }
+    .fade.p-2.alert.alert-danger.show {
+        width: 40%;
+    }
+    /* manage */
+}
+/* style admin */
+
+.btn-admin {
+  width: 40%;
+  margin-top: 2%;
+  margin-bottom: 2%;
+  margin-left: 30%;
+  color: var(--thirdColor);
+  padding: 12px 20px;
+  cursor: pointer;
+}
+
+.btn-admin:hover {
+  color: var(--secondColor);
+  transform: scale(1.02);
+}

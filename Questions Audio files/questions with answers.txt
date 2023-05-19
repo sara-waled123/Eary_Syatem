@@ -1,0 +1,98 @@
+
+Audio ->Train_Station_0dB
+
+Which is the right platform?
+Platform 40
+Platform 17
+Platform 14  (true)
+I didn't understand
+
+-------------------------------------------------------
+
+Audio->Stadium_-4dB
+
+At the stadium
+Who scored the goal?
+Brandon  (true)
+Brayden
+Clayton
+I didn't understand
+
+--------------------------------------------------------
+
+audio->at work
+
+At the workplace
+What did they decide to eat for lunch today?
+Hamburger   (true)
+Veal cutlets
+Fish and chips
+I didn't understand
+-----------------------------------------------------------
+
+audio-> at traffic
+
+In the traffic
+Where do they need to go?
+Right    (true)
+Left
+Straight
+I didn't understand
+---------------------------------------------------------------
+audio->Restaurant_-2dB
+
+
+At the restaurant
+How much was their bill?
+60 dollars   (true)
+90 dollars
+50 dollars
+I didn't understand
+
+----------------------------------------------------------------
+
+audio->coffee shop
+
+
+At the coffee shop
+What did they order?
+Cappuccino  (true)
+Moccaccino
+Green tea
+I didn’t understand
+
+-----------------------------------------------------------
+audio->Concert_-2dB
+
+
+At the concert
+What row are their seats in?
+Row M  (true)
+Row K
+Row N
+I didn't understand
+
+
+
+
+
+-------------------------------------
+audio->at home
+
+At home
+When will they meet with Robert and Sandra?
+Seven fifteen
+Six thirty   (true)
+Eight thirty
+I didn’t understand
+
+
+----------------------------------
+audio->at park
+
+At the park
+Where will they have their picnic?
+Near the tree
+Near the lake     (true)
+Close to the fence
+I didn’t understand
