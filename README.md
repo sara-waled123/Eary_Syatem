@@ -10,7 +10,7 @@ A web Application called "Early", which helps people to check their hearing prob
 
 ## Users
 1. Admin User
-    - [ ]  Login/ Logout
+    - [1]  Login/ Logout
     - [ ]  Update Profile
     - [ ]  Manage other users accounts (CRUD)
     - [ ]  Manage hearing assistance questions (CRUD)
